@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Dobar dan, Ivan Kako ste!");
+﻿Console.WriteLine("Dobar dan, Ivan Kako ste!");
+
+// Implementirajte ispis prvih N brojeva koji se unose kao vparametar konzolne aplikacije.
